@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">でんしれんじ</string>
+
+    <string name="app_title">でんしれんじ</string>
+
+    <string name="image_name1">おにぎり</string>
+    <string name="image_name3">たまご</string>
+    <string name="image_name2">冷凍食品</string>
+
+    <string name="app_button_text1">温める</string>
+    <string name="app_button_text2">始める</string>
+    <string name="app_button_text3">止める</string>
+    <string name="app_button_text4">終わる</string>
+    <string name="app_button_text5">最初から</string>
+
+    <string name="app_text1">どれを温める？</string>
+    <string name="app_text2">加熱結果</string>
+    <string name="app_text3">加熱時間</string>
+    <string name="microwave_text">テキスト</string>
+
+    <string name="app_timer">00 : 00</string>
+    <string name="app_rank_text1">A</string>
+    <string name="app_result">評価</string>
+
+    <string name = "text_message01">「カンペキです！」</string>
+    <string name = "text_message02">「加熱具合もいい感じですね」</string>
+    <string name = "text_message03">「もう少し加熱が必要ですね」</string>
+    <string name = "text_message04">「まだ温まってないみたいです」</string>
+    <string name = "text_message05">「加熱し過ぎたみたいです」</string>
+</resources>
